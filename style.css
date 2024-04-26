@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+    color: darkgoldenrod;
+    font-size: 50px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+body {
+    background-image:url(https://neofusion.com.br/wp-content/uploads/2018/01/Wiki-background.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+table {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+}
+
+td, th {
+    border: 1px solid darkgoldenrod;
+    padding: 8px;
+    
+}
+
+th {
+    color:rgb(207, 185, 157);
+    text-align: center;
+}
+
+td {
+    color:rgb(255, 220, 178);
+    text-align:center;
+}
